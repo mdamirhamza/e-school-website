@@ -1,0 +1,201 @@
+
+.logo{
+    height: 60px;
+    width: 200px;
+}
+.nav-item{
+    margin: 0px 8px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.singin-btn{
+    background-color: #21b573;
+    border-radius: 20px;
+    padding: 6px 25px;
+    font-size: 16px;
+}
+.text-color{
+    color: white;
+}
+.singin-btn:hover{
+    background-color: black;
+    cursor: pointer;
+    color: white!important;
+}
+.singin-btn a{
+    text-decoration: none;
+    color: white;
+}
+.bg-color{
+    background-color: #e3eee96c;
+}
+.space{
+    padding: 20px 80px;
+    margin-bottom: 30px;
+}
+.p-class{
+    margin-left: 20px;
+}
+.span-text{
+    color: #21b573;
+}
+.col-md-5 h2{
+    font-weight: bold;
+}
+.areyou{
+    color: orange;
+}
+.col-md-5 button{
+    background-color: #21b573;
+    color: white;
+    border-radius: 60px;
+    outline: none;
+    padding: 7px 30px;
+    border: none;
+}
+.col-md-5 button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+/* This is BOOK Area  */
+.image-size{
+    height: 110px;
+    width: 90px;
+    margin: 30px 0px;
+    padding-top: 10px;
+}
+.card{
+    padding: 5px 5px;
+    background-color: #e3eee96c;
+    border: none;
+    margin: 30px 0px;
+}
+.box-shadow{
+    margin: 30px 0px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-deck{
+    margin-bottom: 40px;
+}
+.card-title{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin: -8px 0px 5px 0px;
+}
+.text-muted{
+    font-size: 16px;
+    text-align: center;
+}
+/* Book Area is END  */
+
+
+
+/* Courses area is Start from here  */
+.uline{ 
+    height: 10px;
+    width: 180px;
+    background-image: linear-gradient(180deg, rgb(0, 255, 179), rgb(0, 195, 255));
+    border-radius: 10px;
+    margin: auto;
+}
+.img-edit{
+    padding: 12px 12px;
+}
+.buy-course-btn{
+    background-color: #21b573;
+    color: white;
+    border: none;
+    padding: 6px 30px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.title-color{
+    color: rosybrown;
+}
+.headline{
+    padding: 15px 0px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.background{
+    background-color: white;
+    box-shadow: 1px 1px 10px lightgray;
+    border-radius: 10px;
+}
+.calender{
+    height: 30px;
+    width: 30px;
+}
+.people{
+    height: 30px;
+    width: 30px;
+}
+.calender-people-icon-title{
+    font-size: 17px;
+    font-weight: 600;
+}
+/* Courses Area is END  */
+
+
+/* About section  */
+.about-us{
+    text-align: center;
+    padding: 40px 0px;
+    margin-left: 50px;
+}
+.man-image{
+    height: 180px;
+    width: 180px;
+    margin-left: 40%;
+}
+.testimonial{
+    font-size: 20px;
+    margin-left: -8%;
+    margin-right: 15%;
+    padding-top: 30px;
+    text-align: justify;
+}
+.about-section{
+    padding-bottom: 80px;
+}
+/* About section is END  */
+
+
+
+/* footer is start from here  */
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+}
+.footer-color{
+    color: white;
+    padding: 40px 0px;
+}
+.last-pera{
+    margin: 0px 0px;
+    text-align: justify;
+}
+.copyright{
+    text-align: center;
+}
+.area{
+    margin-left: 90px;
+}
+h5{
+    font-size: 24px;
+}
+/* footer is END  */
+
+
+
+
